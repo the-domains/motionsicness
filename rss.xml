@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MotionSicness]]></title>
         <description><![CDATA[MotionSicness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/motionsicness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 08:31:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 08:41:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/motionsicness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>First post on The Grid! Lets see if this thing will take us to the moon and beyond!</p>]]></description>
-            <link>undefinedfirst-post-on-the-grid-lets-see-if-this-thing-will-take-us/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c0ff935-f9c8-49b3-b589-fc40840eabc9.png">]]></description>
+            <link>https://thegrid.ai/motionsicness/first-post-on-the-grid-lets-see-if-this-thing-will-take-us/index.html</link>
             <guid isPermaLink="false">74f20eeb-eb59-4ba1-8642-3b4205e298cf</guid>
-            <pubDate>Tue, 19 Apr 2016 08:31:39 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 08:41:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
